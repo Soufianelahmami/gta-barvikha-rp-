@@ -30,24 +30,28 @@
 "vungle_reward":"REWARD-7025613",
 
   
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
-  {"desc1":"GTA Barvikha RP is an online gaming phenomenon that has taken the Grand Theft Auto V (GTA V) community by storm"},
-  {"desc2":"With its immersive role-playing experience and dedicated player base, GTA Barvikha RP has become a thriving virtual community."},
-  {"desc3":" This article aims to explore the intricacies of GTA Barvikha RP, its history, gameplay mechanics, and the reasons behind its immense popularity."},
-  {"desc4":"GTA Barvikha RP is a multiplayer modification (mod) for GTA V that allows players to immerse themselves in a detailed and interactive virtual world."},
-  {"desc5":"Based on the popular Russian RP (Role-Playing) server, it focuses on creating a realistic environment where players can engage in various roles, such as law enforcement officers, criminals, business owners, or everyday citizens."},
-  {"desc6":"The origins of GTA Barvikha RP can be traced back to the early days of the GTA V modding scene."},
-  {"desc7":"It was initially inspired by the success of other RP servers and sought to create a unique experience that appealed to a wide range of players"},
-  {"descd":" Over time, the server expanded and evolved, introducing new features, enhancing the role-playing mechanics, and building a strong and passionate community."}
+  {"desc1":"description1 ser ",
+   "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc2":"Grand Theft Auto (GTA) has long been renowned for its immersive open-world gameplay, allowing players to indulge in a virtual universe where they can engage in various criminal activities.","photo2":"https://iili.io/HrAU0Na.jpg"},
+  {"desc3":" However, a new trend has emerged within the GTA community - Role-Playing (RP) servers","photo3":"https://iili.io/HrAUMVR.jpg"},
+  {"desc4":" These servers provide a unique environment where players can create and assume the roles of different characters, fostering a dynamic and engaging experience","photo4":"https://iili.io/HrAU1DJ.jpg"},
+  {"desc5":"Among the many popular GTA RP servers, GTA Barvikha RP has garnered considerable attention for its rich gameplay, vibrant community, and dedicated administration","photo5":"https://iili.io/HrAUGov.jpg"},
+  {"descd":"In this article, we will explore the world of GTA Barvikha RP, its key features, and the reasons behind its growing popularity.","photod":"https://iili.io/HrAUVPp.jpg"}
    ]
  
 }
